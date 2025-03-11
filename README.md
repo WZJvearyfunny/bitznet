@@ -1,9 +1,7 @@
 # bitznet
 Bitznet 机场最新网址，优惠码/推荐码  
 
-网址：as.bitzconnect.com  
-
-推荐码：https://new.bnaffloop.com/#/register?code=I57KnNzs  
+网址&推荐码：https://new.bnaffloop.com/#/register?code=I57KnNzs  
 
 优惠码：TURKEY24，所有订阅均可使用，请在下单时填写  
 
